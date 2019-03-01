@@ -1,0 +1,3 @@
+function oshita() {
+    alert('こんにちは');
+}
